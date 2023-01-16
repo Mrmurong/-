@@ -1,5 +1,7 @@
 # -机器人使用说明
 目前机器人正在开发完善，功能也在慢慢更新。
+功能目录点击Readme.md左边的三条横杠即可  
+![image](https://user-images.githubusercontent.com/26669224/212621169-89f9b074-536d-486b-b3b9-b1fdfe179396.png)
 
 ## 唤醒
 在群里直接输入**小爱同学** 即可得到回复。
